@@ -1,0 +1,5 @@
+{
+  "name": "EventGen - 活動網頁生成器",
+  "description": "只需輸入活動詳情，AI 即刻為您生成專業的活動介紹網頁 HTML 代碼。",
+  "requestFramePermissions": []
+}
